@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 220 220" fill="none">
+  <title>Jour J Calendar Icon</title>
+  <g>
+    
+    <path d="M56 50&#xA;             H164&#xA;             C176 50 186 60 186 72&#xA;             V124&#xA;             M56 50&#xA;             C44 50 34 60 34 72&#xA;             V164&#xA;             C34 176 44 186 56 186&#xA;             H164&#xA;             C176 186 186 176 186 164" stroke="#1F6B45" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+    
+    <path d="M34 86 H186" stroke="#1F6B45" stroke-width="4" stroke-linecap="round"></path>
+
+    
+    <rect x="55" y="28" width="16" height="34" rx="8" stroke="#1F6B45" stroke-width="4"></rect>
+    <rect x="149" y="28" width="16" height="34" rx="8" stroke="#1F6B45" stroke-width="4"></rect>
+
+    
+    <g fill="#1F6B45">
+      <circle cx="62" cy="110" r="3.2"></circle>
+      <circle cx="94" cy="110" r="3.2"></circle>
+      <circle cx="126" cy="110" r="3.2"></circle>
+      <circle cx="158" cy="110" r="3.2"></circle>
+
+      <circle cx="62" cy="135" r="3.2"></circle>
+      <circle cx="94" cy="135" r="3.2"></circle>
+      <circle cx="126" cy="135" r="3.2"></circle>
+      <circle cx="158" cy="135" r="3.2"></circle>
+
+      <circle cx="62" cy="160" r="3.2"></circle>
+      <circle cx="94" cy="160" r="3.2"></circle>
+      <circle cx="126" cy="160" r="3.2"></circle>
+      <circle cx="158" cy="160" r="3.2"></circle>
+    </g>
+
+    
+    <circle cx="156" cy="136" r="16" fill="#F07F61"></circle>
+    <path d="M156 126.5 L159 132.8 L165.9 133.4 L160.6 137.9 L162.2 144.5 L156 141.0 L149.8 144.5 L151.4 137.9 L146.1 133.4 L153 132.8 Z" fill="#FFFFFF"></path>
+
+    
+    <path d="M176 132 L183 128" stroke="#F07F61" stroke-width="4" stroke-linecap="round"></path>
+    <path d="M177.5 140 L185 140" stroke="#F07F61" stroke-width="4" stroke-linecap="round"></path>
+
+    
+    <circle cx="190" cy="118" r="3.8" fill="#D7A437"></circle>
+    <path d="M184 150&#xA;             C187 150 189 148 189 145&#xA;             C189 148 191 150 194 150&#xA;             C191 150 189 152 189 155&#xA;             C189 152 187 150 184 150 Z" fill="#D7A437"></path>
+  </g>
+</svg>

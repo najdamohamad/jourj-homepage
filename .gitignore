@@ -1,0 +1,15 @@
+# Dependencies & build
+web/node_modules/
+web/.next/
+web/out/
+web/build/
+web/.vercel/
+
+# Env & logs
+.env*
+*.log
+.DS_Store
+
+# TypeScript
+web/*.tsbuildinfo
+web/next-env.d.ts
